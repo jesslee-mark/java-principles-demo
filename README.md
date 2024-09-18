@@ -123,6 +123,7 @@
 10. [【web系列】JSON Web Token (JWT) 简介](https://zhuanlan.zhihu.com/p/714438233)
 11. [【web系列】刷新令牌是什么以及如何安全地使用它们](https://zhuanlan.zhihu.com/p/714438667)
 12. [【web系列】身份验证 (Authentication) 、 授权 (Authorization) 、 OpenID Connect (OIDC)](https://zhuanlan.zhihu.com/p/714442507)
+13. [【mq系列】MQTT 入门指南](https://zhuanlan.zhihu.com/p/720784310)
 
 ## 数据库
 
